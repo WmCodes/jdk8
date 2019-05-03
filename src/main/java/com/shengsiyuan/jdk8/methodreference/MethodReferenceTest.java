@@ -51,7 +51,7 @@ public class MethodReferenceTest {
 /*        Collections.sort(cities,(city1,citye2)->city1.compareToIgnoreCase(citye2));
         cities.forEach(city -> System.out.println(city));*/
 
-     /*   Collections.sort(cities,String::compareToIgnoreCase);
+    /*  Collections.sort(cities,String::compareToIgnoreCase);
         cities.forEach(System.out::println);*/
 
      MethodReferenceTest methodReferenceTest = new MethodReferenceTest();

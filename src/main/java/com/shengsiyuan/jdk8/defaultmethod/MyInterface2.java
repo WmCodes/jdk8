@@ -1,4 +1,4 @@
-package com.shengsiyuan.defaultmethod;
+package com.shengsiyuan.jdk8.defaultmethod;
 
 /**
  * @author wangmeng
