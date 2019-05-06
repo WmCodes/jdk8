@@ -82,6 +82,6 @@ public class Java8TimeTest {
         System.out.println(period.getYears());
         System.out.println(period.getMonths());
         System.out.println(period.getDays());
-
+        System.out.println("--------------------------");
     }
 }
